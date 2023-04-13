@@ -29,7 +29,7 @@ exports.config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/**/login-screen.spec.js'
+        './test/android/specs/login-screen.spec.js'
         // ToDo: define location for spec files here
     ],
     // Patterns to exclude.
